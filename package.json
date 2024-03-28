@@ -8,6 +8,9 @@
     "start": "nodemon dist/index.js",
     "prepare": "npm run build"
   },
+  "engines": {
+    "node": "20.11.1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
